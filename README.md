@@ -1,1 +1,1 @@
-# zeciços lista b de IP
+# exercícios lista 1 - b de IP
